@@ -9,6 +9,7 @@ import configparser
 
 
 """ Reddit Account, and PRAW API required """
+""" Pip Install Requirements.txt """
 """ ffmpeg can be downloaded from https://ffmpeg.org/download.html """
 """ PRAW API can be setup by following https://praw.readthedocs.io/en/latest/getting_started/quick_start.html """
 """ ffmpeg must be added to PATH in order for editrawfootage() function to work """
