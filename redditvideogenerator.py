@@ -206,7 +206,7 @@ def main() -> None:
     poststogather = ["nuclearrevenge", "prorevenge", "TalesFromTheFrontDesk", "talesfromtechsupport", "talesfromretail", "talesfromcallcenters", "talesfromthejob", "pettyrevenge", "AITAH"]
     for subreddit in poststogather:
         try:
-            generatecompletedvideo(subreddit, 7)
+            generatecompletedvideo(subreddit, config["DEFAULT"]["postlimit"])
 
         except Exception as e:
             print(f"Error generating video for {subreddit}: {e}")
