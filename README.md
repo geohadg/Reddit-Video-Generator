@@ -10,6 +10,6 @@ You will need Bare Minimum a Reddit Account, Reddit Client Id and Secret, and In
 
 Setup for PRAW API can be acheived by following the quickstart guide at https://praw.readthedocs.io/en/latest/getting_started/quick_start.html
 
-Install requirements.txt
+pip install requirements.txt
 
 Edit the config.ini file to match your directories and client information
