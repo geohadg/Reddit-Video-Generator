@@ -1,6 +1,6 @@
 # Reddit Video Generator
 
-This is a python script that runs on pymovie and Reddits' PRAW API
+This is a python script that runs on pymovie and the Reddit PRAW API
 
 It can gather post data from reddit, and combine it with background footage and other video elements to create a full form factor youtube video
 
